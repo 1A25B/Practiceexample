@@ -37,3 +37,4 @@ while running:
             screentxt= font.render(txt, True, BLUE)
             screen.blit(screentxt, (400,20))
         pygame.display.update()
+hi
